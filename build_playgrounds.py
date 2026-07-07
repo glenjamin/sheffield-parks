@@ -153,21 +153,25 @@ def main():
     print(f"     {len(schools)} school grounds")
     for r in merged:
         r["access"] = _classify_access(r, schools)
-    n_restricted = sum(1 for r in merged if r["access"] != "public")
-    print(f"     {n_restricted} flagged not-clearly-public "
-          f"({sum(1 for r in merged if r['access']=='school')} in school grounds)")
 
-    # Council first, then alphabetical — stable, readable ordering.
-    merged.sort(key=lambda x: (x["source"] != "Council", x["name"]))
+    # Only publicly-accessible playgrounds go in the tracker; the rest (school /
+    # private / commercial) are written to a separate file so they're recorded
+    # but don't clutter the tick-list.
+    public = [r for r in merged if r["access"] == "public"]
+    excluded = [r for r in merged if r["access"] != "public"]
+    for lst in (public, excluded):
+        lst.sort(key=lambda x: (x["source"] != "Council", x["name"]))
+    print(f"     {len(public)} public, {len(excluded)} excluded")
 
-    print(f"6/6 Writing {len(merged)} playgrounds ...")
-    write_csv(merged)
-    write_geojson(merged)
-    write_kml(merged)
+    print(f"6/6 Writing {len(public)} public playgrounds ...")
+    write_csv(public)
+    write_geojson(public)
+    write_kml(public)
+    write_excluded(excluded)
 
     from collections import Counter
-    print("     by source:", dict(Counter(r["source"] for r in merged)))
-    print("     by access:", dict(Counter(r["access"] for r in merged)))
+    print("     by source:", dict(Counter(r["source"] for r in public)))
+    print("     excluded:", dict(Counter(r["access"] for r in excluded)))
     print("Done.")
 
 
@@ -299,54 +303,57 @@ def _label_unnamed(lat, lon):
 def write_csv(rows):
     with open(os.path.join(HERE, "sheffield_playgrounds.csv"), "w", newline="") as fh:
         w = csv.writer(fh)
-        w.writerow(["name", "lat", "lon", "source", "access",
+        w.writerow(["name", "lat", "lon", "source",
                     "visited", "date_visited", "notes"])
         for r in rows:
             w.writerow([r["name"], round(r["lat"], 6), round(r["lon"], 6),
-                        r["source"], r["access"], "", "", ""])
+                        r["source"], "", "", ""])
 
 
 def write_geojson(rows):
-    # Pin colour encodes access so restricted ones stand out at a glance:
-    # public=Red (to-do), school/private/customers=Grey. In uMap, add a
+    # _umap_options makes uMap draw every pin red (= to-do). In uMap, add a
     # conditional style visited=yes -> Green so ticking off recolours the pin.
     feats = [{
         "type": "Feature",
         "geometry": {"type": "Point",
                      "coordinates": [round(r["lon"], 6), round(r["lat"], 6)]},
         "properties": {"name": r["name"], "source": r["source"],
-                       "access": r["access"], "visited": "no",
-                       "date_visited": "", "notes": "",
-                       "_umap_options": {
-                           "color": "Red" if r["access"] == "public" else "Gray",
-                           "iconClass": "Drop"}},
+                       "visited": "no", "date_visited": "", "notes": "",
+                       "_umap_options": {"color": "Red", "iconClass": "Drop"}},
     } for r in rows]
     with open(os.path.join(HERE, "sheffield_playgrounds.geojson"), "w") as fh:
         json.dump({"type": "FeatureCollection", "features": feats}, fh, indent=1)
 
 
 def write_kml(rows):
-    # Two styles: public playgrounds red, restricted (school/private/customers)
-    # grey, so non-public ones are obvious on the CoMaps map.
     placemarks = "\n".join(
         f"""    <Placemark>
       <name>{_xml(r['name'])}</name>
-      <description>Source: {_xml(r['source'])} | access: {_xml(r['access'])} | visited: no</description>
-      <styleUrl>#{'todo' if r['access'] == 'public' else 'restricted'}</styleUrl>
+      <description>Source: {_xml(r['source'])} | visited: no</description>
+      <styleUrl>#todo</styleUrl>
       <Point><coordinates>{round(r['lon'], 6)},{round(r['lat'], 6)},0</coordinates></Point>
     </Placemark>""" for r in rows)
-    # color is KML aabbggrr (opaque). Import into CoMaps as a bookmark list.
+    # color is KML aabbggrr (opaque red). Import into CoMaps as a bookmark list.
     kml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Sheffield Playparks</name>
     <Style id="todo"><IconStyle><color>ff3643f4</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
-    <Style id="restricted"><IconStyle><color>ff888888</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle></Style>
 {placemarks}
   </Document>
 </kml>"""
     with open(os.path.join(HERE, "sheffield_playgrounds.kml"), "w") as fh:
         fh.write(kml)
+
+
+def write_excluded(rows):
+    """Record the non-public playgrounds kept OUT of the tracker, with reason."""
+    with open(os.path.join(HERE, "excluded_playgrounds.csv"), "w", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["name", "lat", "lon", "source", "access"])
+        for r in rows:
+            w.writerow([r["name"], round(r["lat"], 6), round(r["lon"], 6),
+                        r["source"], r["access"]])
 
 
 # --- Geometry / helpers (kept at the bottom) --------------------------------

@@ -13,7 +13,6 @@
    "properties": {
     "name": "Abbeyfield Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -35,7 +34,6 @@
    "properties": {
     "name": "Angram Bank Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -57,7 +55,6 @@
    "properties": {
     "name": "Arbourthorne Pond Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -79,7 +76,6 @@
    "properties": {
     "name": "Archer Gate Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -101,7 +97,6 @@
    "properties": {
     "name": "Batemoor Road Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -123,7 +118,6 @@
    "properties": {
     "name": "Beaverhill Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -145,7 +139,6 @@
    "properties": {
     "name": "Beechwood Road Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -167,7 +160,6 @@
    "properties": {
     "name": "Birley Spa Lane Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -189,7 +181,6 @@
    "properties": {
     "name": "Blackbrook Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -211,7 +202,6 @@
    "properties": {
     "name": "Bole Hill Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -233,7 +223,6 @@
    "properties": {
     "name": "Bridle Stile Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -255,7 +244,6 @@
    "properties": {
     "name": "Brightside Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -277,7 +265,6 @@
    "properties": {
     "name": "Broadfield Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -299,7 +286,6 @@
    "properties": {
     "name": "Burngreave Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -321,7 +307,6 @@
    "properties": {
     "name": "Busk Meadow Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -343,7 +328,6 @@
    "properties": {
     "name": "Cardwell Drive Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -365,7 +349,6 @@
    "properties": {
     "name": "Cart Drive Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -387,7 +370,6 @@
    "properties": {
     "name": "Carterhall Recreation Ground Playground 1",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -409,7 +391,6 @@
    "properties": {
     "name": "Carterhall Recreation Ground Playground 2",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -431,7 +412,6 @@
    "properties": {
     "name": "Chancet Wood Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -453,7 +433,6 @@
    "properties": {
     "name": "Chapletown Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -475,7 +454,6 @@
    "properties": {
     "name": "Charlton Brook Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -497,7 +475,6 @@
    "properties": {
     "name": "Chelsea Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -519,7 +496,6 @@
    "properties": {
     "name": "Colley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -541,7 +517,6 @@
    "properties": {
     "name": "Concord Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -563,7 +538,6 @@
    "properties": {
     "name": "Cookson Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -585,7 +559,6 @@
    "properties": {
     "name": "Coventry Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -607,7 +580,6 @@
    "properties": {
     "name": "Crookes Valley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -629,7 +601,6 @@
    "properties": {
     "name": "Cross Lane Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -651,7 +622,6 @@
    "properties": {
     "name": "Darnall Community Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -673,7 +643,6 @@
    "properties": {
     "name": "Darnall Neighbourhood Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -695,7 +664,6 @@
    "properties": {
     "name": "Deep Pits Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -717,7 +685,6 @@
    "properties": {
     "name": "Deepcar Playing Fields Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -739,7 +706,6 @@
    "properties": {
     "name": "Deer Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -761,7 +727,6 @@
    "properties": {
     "name": "Denholme Close Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -783,7 +748,6 @@
    "properties": {
     "name": "Dore Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -805,7 +769,6 @@
    "properties": {
     "name": "Earl Marshall Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -827,7 +790,6 @@
    "properties": {
     "name": "East Glade Way Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -849,7 +811,6 @@
    "properties": {
     "name": "Ecclesfield Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -871,7 +832,6 @@
    "properties": {
     "name": "Ecclesfield Road (Woolley W) Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -893,7 +853,6 @@
    "properties": {
     "name": "Edenthorpe Grove Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -915,7 +874,6 @@
    "properties": {
     "name": "Ellesmere Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -937,7 +895,6 @@
    "properties": {
     "name": "Endcliffe Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -959,7 +916,6 @@
    "properties": {
     "name": "Firth Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -981,7 +937,6 @@
    "properties": {
     "name": "Forge Dam Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1003,7 +958,6 @@
    "properties": {
     "name": "Fox Glen Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1025,7 +979,6 @@
    "properties": {
     "name": "Foxhill Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1047,7 +1000,6 @@
    "properties": {
     "name": "Frecheville Pond Community Centre Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1069,7 +1021,6 @@
    "properties": {
     "name": "Gleadless Common Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1091,7 +1042,6 @@
    "properties": {
     "name": "Graves Park Cobnar Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1113,7 +1063,6 @@
    "properties": {
     "name": "Graves Park Rose Garden Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1135,7 +1084,6 @@
    "properties": {
     "name": "Green Oak Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1157,7 +1105,6 @@
    "properties": {
     "name": "Greenhill Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1179,7 +1126,6 @@
    "properties": {
     "name": "Gregory Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1201,7 +1147,6 @@
    "properties": {
     "name": "Grenoside Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1223,7 +1168,6 @@
    "properties": {
     "name": "Handsworth Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1245,7 +1189,6 @@
    "properties": {
     "name": "Headford Gardens Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1267,7 +1210,6 @@
    "properties": {
     "name": "Heathlands Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1289,7 +1231,6 @@
    "properties": {
     "name": "Herdings Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1311,7 +1252,6 @@
    "properties": {
     "name": "High Hazels Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1333,7 +1273,6 @@
    "properties": {
     "name": "High Street Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1355,7 +1294,6 @@
    "properties": {
     "name": "Hillsborough Park Childrens Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1377,7 +1315,6 @@
    "properties": {
     "name": "Hillsborough Park Teenage Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1399,7 +1336,6 @@
    "properties": {
     "name": "Holberry Open Space Playground - Upper Hanover",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1421,7 +1357,6 @@
    "properties": {
     "name": "Hollinsend Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1443,7 +1378,6 @@
    "properties": {
     "name": "Longley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1465,7 +1399,6 @@
    "properties": {
     "name": "Low Bradfield Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1487,7 +1420,6 @@
    "properties": {
     "name": "Lowfield Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1509,7 +1441,6 @@
    "properties": {
     "name": "Loxley Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1531,7 +1462,6 @@
    "properties": {
     "name": "Lydgate Lane Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1553,7 +1483,6 @@
    "properties": {
     "name": "Mackenzie Crescent Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1575,7 +1504,6 @@
    "properties": {
     "name": "Manor Oaks Garden Playground ",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1597,7 +1525,6 @@
    "properties": {
     "name": "Mather Road Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1619,7 +1546,6 @@
    "properties": {
     "name": "Meersbrook Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1641,7 +1567,6 @@
    "properties": {
     "name": "Meersbrook Park Playground - Trim Trail",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1663,7 +1588,6 @@
    "properties": {
     "name": "Middlewood Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1685,7 +1609,6 @@
    "properties": {
     "name": "Millhouses Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1707,7 +1630,6 @@
    "properties": {
     "name": "Millhouses Park Water Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1729,7 +1651,6 @@
    "properties": {
     "name": "Mortomley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1751,7 +1672,6 @@
    "properties": {
     "name": "Mosborough Hall Drive Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1773,7 +1693,6 @@
    "properties": {
     "name": "Mount Pleasant Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1795,7 +1714,6 @@
    "properties": {
     "name": "Norfolk Park Junior Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1817,7 +1735,6 @@
    "properties": {
     "name": "Norfolk Park Toddler Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1839,7 +1756,6 @@
    "properties": {
     "name": "Nottingham Street Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1861,7 +1777,6 @@
    "properties": {
     "name": "Owlthorpe Grove Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1883,7 +1798,6 @@
    "properties": {
     "name": "Oxley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1905,7 +1819,6 @@
    "properties": {
     "name": "Parson Cross Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1927,7 +1840,6 @@
    "properties": {
     "name": "Pen Nook Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1949,7 +1861,6 @@
    "properties": {
     "name": "Philadelphia Gardens Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1971,7 +1882,6 @@
    "properties": {
     "name": "Phillimore Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -1993,7 +1903,6 @@
    "properties": {
     "name": "Ponderosa Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2015,7 +1924,6 @@
    "properties": {
     "name": "Ponderosa, Martin Street Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2037,7 +1945,6 @@
    "properties": {
     "name": "Richmond Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2059,7 +1966,6 @@
    "properties": {
     "name": "Rivelin Valley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2081,7 +1987,6 @@
    "properties": {
     "name": "Rivelin Valley Park Water Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2103,7 +2008,6 @@
    "properties": {
     "name": "Rolling Acres Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2125,7 +2029,6 @@
    "properties": {
     "name": "Rundle Road Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2147,7 +2050,6 @@
    "properties": {
     "name": "Ruskin Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2169,7 +2071,6 @@
    "properties": {
     "name": "Sandringham Place Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2191,7 +2092,6 @@
    "properties": {
     "name": "Sevenairs Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2213,7 +2113,6 @@
    "properties": {
     "name": "Springfield Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2235,7 +2134,6 @@
    "properties": {
     "name": "Stannington Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2257,7 +2155,6 @@
    "properties": {
     "name": "Storth Lane Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2279,7 +2176,6 @@
    "properties": {
     "name": "Sycamore Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2301,7 +2197,6 @@
    "properties": {
     "name": "The Rookery Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2323,7 +2218,6 @@
    "properties": {
     "name": "Thorpe Green Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2345,7 +2239,6 @@
    "properties": {
     "name": "Thorpe Hesley Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2367,7 +2260,6 @@
    "properties": {
     "name": "Tinsley Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2389,7 +2281,6 @@
    "properties": {
     "name": "Totley Hall Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2411,7 +2302,6 @@
    "properties": {
     "name": "Wadsley Park Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2433,7 +2323,6 @@
    "properties": {
     "name": "Warren Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2455,7 +2344,6 @@
    "properties": {
     "name": "Wensley Street Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2477,7 +2365,6 @@
    "properties": {
     "name": "Wharncliffe Avenue Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2499,7 +2386,6 @@
    "properties": {
     "name": "Wincobank Lane Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2521,7 +2407,6 @@
    "properties": {
     "name": "Wisewood Park",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2543,7 +2428,6 @@
    "properties": {
     "name": "Wolfe Road Open Space Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2565,7 +2449,6 @@
    "properties": {
     "name": "Woodthorpe Ravine Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2587,7 +2470,6 @@
    "properties": {
     "name": "Worrall Recreation Ground Playground",
     "source": "Council",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2609,7 +2491,6 @@
    "properties": {
     "name": "Charter Square Musical Pocket Park",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2631,7 +2512,6 @@
    "properties": {
     "name": "Clough Road Square",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2653,34 +2533,11 @@
    "properties": {
     "name": "Enchanted Forest Trail",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.467212,
-     53.382973
-    ]
-   },
-   "properties": {
-    "name": "Escape Sheffield",
-    "source": "OSM only",
-    "access": "customers",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -2697,7 +2554,6 @@
    "properties": {
     "name": "Fun House Play Centre",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2719,7 +2575,6 @@
    "properties": {
     "name": "Jungle Mania",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2741,7 +2596,6 @@
    "properties": {
     "name": "Pitsmoor Adventure Playground",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2763,7 +2617,6 @@
    "properties": {
     "name": "Tannery Park Play Area",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2785,34 +2638,11 @@
    "properties": {
     "name": "Tara Springs Park",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.490049,
-     53.366392
-    ]
-   },
-   "properties": {
-    "name": "The Stags Head Play Area",
-    "source": "OSM only",
-    "access": "customers",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -2829,34 +2659,11 @@
    "properties": {
     "name": "Tiger Play",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.482491,
-     53.355019
-    ]
-   },
-   "properties": {
-    "name": "TopJump Inflatable Park",
-    "source": "OSM only",
-    "access": "customers",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -2873,7 +2680,6 @@
    "properties": {
     "name": "Tots To Tens",
     "source": "OSM only",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2895,7 +2701,6 @@
    "properties": {
     "name": "Unnamed playground nr Alexandra Road, Heeley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2917,34 +2722,11 @@
    "properties": {
     "name": "Unnamed playground nr Atlantic Road, Greenhill",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.528671,
-     53.350732
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Bents Crescent, Bents Green",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -2961,7 +2743,6 @@
    "properties": {
     "name": "Unnamed playground nr Boundary Road, Wybourn",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -2983,7 +2764,6 @@
    "properties": {
     "name": "Unnamed playground nr Bradway Road, Bradway",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3005,7 +2785,6 @@
    "properties": {
     "name": "Unnamed playground nr Brightside",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3027,7 +2806,6 @@
    "properties": {
     "name": "Unnamed playground nr Britnall Street, Attercliffe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3049,7 +2827,6 @@
    "properties": {
     "name": "Unnamed playground nr Burnaby Crescent, Walkley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3071,7 +2848,6 @@
    "properties": {
     "name": "Unnamed playground nr City Road, Arbourthorne",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3093,7 +2869,6 @@
    "properties": {
     "name": "Unnamed playground nr Cliffe Hill, Bradfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3115,56 +2890,11 @@
    "properties": {
     "name": "Unnamed playground nr Derby Street, Heeley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.509676,
-     53.34776
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Derriman Drive, Ecclesall",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.353927,
-     53.344805
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Drake House Way, Waterthorpe",
-    "source": "OSM unnamed",
-    "access": "customers",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3181,34 +2911,11 @@
    "properties": {
     "name": "Unnamed playground nr Dungworth Green, Bradfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.466356,
-     53.322829
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Dyche Lane, Jordanthorpe",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3225,7 +2932,6 @@
    "properties": {
     "name": "Unnamed playground nr Dyke Vale Road, Hackenthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3247,7 +2953,6 @@
    "properties": {
     "name": "Unnamed playground nr Fraser Road, Woodseats",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3269,7 +2974,6 @@
    "properties": {
     "name": "Unnamed playground nr Fretson Green, Manor",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3291,7 +2995,6 @@
    "properties": {
     "name": "Unnamed playground nr Gleadless Road, Arbourthorne",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3313,7 +3016,6 @@
    "properties": {
     "name": "Unnamed playground nr Gleadless Road, Heeley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3335,7 +3037,6 @@
    "properties": {
     "name": "Unnamed playground nr Greaves Street, Walkley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3357,34 +3058,11 @@
    "properties": {
     "name": "Unnamed playground nr Hanover Street, Broomhall",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.536719,
-     53.338035
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Hathersage Road, Ecclesall",
-    "source": "OSM unnamed",
-    "access": "private",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3401,7 +3079,6 @@
    "properties": {
     "name": "Unnamed playground nr Hathersage Road, Ecclesall",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3423,7 +3100,6 @@
    "properties": {
     "name": "Unnamed playground nr Hawksley Avenue, Middlewood",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3445,34 +3121,11 @@
    "properties": {
     "name": "Unnamed playground nr Hazlebarrow Court, Jordanthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.385562,
-     53.372841
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Hendon Street, Handsworth",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3489,7 +3142,6 @@
    "properties": {
     "name": "Unnamed playground nr Herries Road, Shirecliffe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3511,7 +3163,6 @@
    "properties": {
     "name": "Unnamed playground nr High Hazels Close, Darnall",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3533,7 +3184,6 @@
    "properties": {
     "name": "Unnamed playground nr Hollin Busk Lane, Stubbin",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3555,7 +3205,6 @@
    "properties": {
     "name": "Unnamed playground nr Hyde Park Terrace, Park Hill",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3577,7 +3226,6 @@
    "properties": {
     "name": "Unnamed playground nr Jericho Street, Netherthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3599,7 +3247,6 @@
    "properties": {
     "name": "Unnamed playground nr Lavender Way, Wincobank",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3621,7 +3268,6 @@
    "properties": {
     "name": "Unnamed playground nr Lichford Road, Heeley",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3643,7 +3289,6 @@
    "properties": {
     "name": "Unnamed playground nr Malham Gardens, Halfway",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3665,7 +3310,6 @@
    "properties": {
     "name": "Unnamed playground nr Manor Lane, Wybourn",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3687,7 +3331,6 @@
    "properties": {
     "name": "Unnamed playground nr Manor Park Centre, Manor",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3709,34 +3352,11 @@
    "properties": {
     "name": "Unnamed playground nr Mansfield Road, Richmond",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.508744,
-     53.351267
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Millhouses Lane, Millhouses",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3753,7 +3373,6 @@
    "properties": {
     "name": "Unnamed playground nr Moorland Drive, Garden Village",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3775,7 +3394,6 @@
    "properties": {
     "name": "Unnamed playground nr Mosborough",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3797,78 +3415,11 @@
    "properties": {
     "name": "Unnamed playground nr Mount Street, Highfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.484333,
-     53.474684
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Pack Horse Lane, High Green",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.508687,
-     53.347436
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Pingle Road, Millhouses",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.509076,
-     53.347092
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Pingle Road, Millhouses",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -3885,7 +3436,6 @@
    "properties": {
     "name": "Unnamed playground nr Randall Place, Highfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3907,7 +3457,6 @@
    "properties": {
     "name": "Unnamed playground nr Reaper Crescent, Burncross",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3929,7 +3478,6 @@
    "properties": {
     "name": "Unnamed playground nr Redmires Road, Lodge Moor",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3951,7 +3499,6 @@
    "properties": {
     "name": "Unnamed playground nr Rockingham Lane, City Centre",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3973,7 +3520,6 @@
    "properties": {
     "name": "Unnamed playground nr Samuel Fox Avenue, Stubbin",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -3995,7 +3541,6 @@
    "properties": {
     "name": "Unnamed playground nr Samuel Fox Avenue, Stubbin",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4017,7 +3562,6 @@
    "properties": {
     "name": "Unnamed playground nr Sandygate Grange Drive, Stannington",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4039,7 +3583,6 @@
    "properties": {
     "name": "Unnamed playground nr Sharrow Lane, Highfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4061,7 +3604,6 @@
    "properties": {
     "name": "Unnamed playground nr Sheffield Road, Carbrook",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4083,34 +3625,11 @@
    "properties": {
     "name": "Unnamed playground nr Skye Edge Avenue, Wybourn",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.473379,
-     53.384986
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Solly Street, City Centre",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -4127,7 +3646,6 @@
    "properties": {
     "name": "Unnamed playground nr Solly Street, City Centre",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4149,7 +3667,6 @@
    "properties": {
     "name": "Unnamed playground nr Spital Lane, Burngreave",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4171,7 +3688,6 @@
    "properties": {
     "name": "Unnamed playground nr Station Lane, Bradfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4193,7 +3709,6 @@
    "properties": {
     "name": "Unnamed playground nr Stockton Close, Burngreave",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4215,7 +3730,6 @@
    "properties": {
     "name": "Unnamed playground nr Storrs Lane, Stannington",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4237,7 +3751,6 @@
    "properties": {
     "name": "Unnamed playground nr The Circle, Manor",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4259,7 +3772,6 @@
    "properties": {
     "name": "Unnamed playground nr Torksey Road West, Firth Park",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4281,7 +3793,6 @@
    "properties": {
     "name": "Unnamed playground nr Waterthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4303,7 +3814,6 @@
    "properties": {
     "name": "Unnamed playground nr Western Bank, Netherthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4325,34 +3835,11 @@
    "properties": {
     "name": "Unnamed playground nr Whitehouse Lane, Upperthorpe",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.461036,
-     53.38776
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Wicker, Burngreave",
-    "source": "OSM unnamed",
-    "access": "private",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }
@@ -4369,7 +3856,6 @@
    "properties": {
     "name": "Unnamed playground nr Willows Walk, Bradfield",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
@@ -4391,34 +3877,11 @@
    "properties": {
     "name": "Unnamed playground nr Windy House Lane, Manor",
     "source": "OSM unnamed",
-    "access": "public",
     "visited": "no",
     "date_visited": "",
     "notes": "",
     "_umap_options": {
      "color": "Red",
-     "iconClass": "Drop"
-    }
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -1.413828,
-     53.364487
-    ]
-   },
-   "properties": {
-    "name": "Unnamed playground nr Woodthorpe Road, Woodthorpe",
-    "source": "OSM unnamed",
-    "access": "school",
-    "visited": "no",
-    "date_visited": "",
-    "notes": "",
-    "_umap_options": {
-     "color": "Gray",
      "iconClass": "Drop"
     }
    }

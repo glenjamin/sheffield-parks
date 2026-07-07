@@ -3,1212 +3,1115 @@
   <Document>
     <name>Sheffield Playparks</name>
     <Style id="todo"><IconStyle><color>ff3643f4</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
-    <Style id="restricted"><IconStyle><color>ff888888</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle></Style>
     <Placemark>
       <name>Abbeyfield Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.464749,53.399253,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Angram Bank Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.492354,53.47044,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Arbourthorne Pond Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.441568,53.358471,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Archer Gate Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.537228,53.408302,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Batemoor Road Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.468215,53.320438,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Beaverhill Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.365332,53.360289,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Beechwood Road Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.600684,53.476369,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Birley Spa Lane Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.373965,53.347359,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Blackbrook Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.559597,53.369538,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Bole Hill Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.508858,53.390287,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Bridle Stile Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.369784,53.325795,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Brightside Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.423143,53.41279,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Broadfield Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.48095,53.357827,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Burngreave Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.459548,53.39557,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Busk Meadow Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.471175,53.409972,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cardwell Drive Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.385729,53.361563,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cart Drive Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.470255,53.469468,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Carterhall Recreation Ground Playground 1</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.418246,53.339702,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Carterhall Recreation Ground Playground 2</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.41692,53.339172,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Chancet Wood Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.484129,53.335164,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Chapletown Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.463254,53.461364,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charlton Brook Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.480146,53.467244,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Chelsea Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.501456,53.35944,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Colley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.4722,53.434107,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Concord Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.440798,53.42423,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cookson Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.488844,53.416766,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Coventry Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.414306,53.389369,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Crookes Valley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.492797,53.38444,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Cross Lane Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.616321,53.484235,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Darnall Community Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.4216,53.390655,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Darnall Neighbourhood Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.412291,53.391648,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Deep Pits Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.429697,53.367352,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Deepcar Playing Fields Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.568193,53.478755,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Deer Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.529934,53.393681,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Denholme Close Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.465905,53.391091,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Dore Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.544902,53.326892,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Earl Marshall Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.453717,53.403538,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>East Glade Way Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.39541,53.348247,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ecclesfield Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.466202,53.443179,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ecclesfield Road (Woolley W) Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.419708,53.424454,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Edenthorpe Grove Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.368769,53.339508,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ellesmere Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.454573,53.395878,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Endcliffe Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.505598,53.368555,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Firth Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.446596,53.417354,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Forge Dam Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.545188,53.360853,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Fox Glen Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.577943,53.476363,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Foxhill Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.501007,53.429327,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Frecheville Pond Community Centre Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.403771,53.346847,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Gleadless Common Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.432184,53.352407,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Graves Park Cobnar Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.480117,53.338562,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Graves Park Rose Garden Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.467697,53.337593,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Green Oak Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.531504,53.31365,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Greenhill Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.485774,53.318907,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Gregory Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.468544,53.359716,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Grenoside Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.499416,53.43914,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Handsworth Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.386048,53.37472,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Headford Gardens Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.481851,53.377233,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Heathlands Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.341501,53.321139,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Herdings Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.439634,53.341857,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>High Hazels Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.401352,53.386257,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>High Street Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.367684,53.329812,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hillsborough Park Childrens Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.502439,53.408032,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hillsborough Park Teenage Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.502189,53.407704,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Holberry Open Space Playground - Upper Hanover</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.484002,53.376746,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Hollinsend Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.423362,53.353626,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Longley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.461983,53.41709,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Low Bradfield Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.606393,53.424564,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Lowfield Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.470866,53.366206,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Loxley Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.542541,53.405023,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Lydgate Lane Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.513769,53.38127,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Mackenzie Crescent Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.487034,53.45925,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Manor Oaks Garden Playground </name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.452486,53.382835,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Mather Road Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.413532,53.37905,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Meersbrook Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.473974,53.354573,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Meersbrook Park Playground - Trim Trail</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.470926,53.352244,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Middlewood Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.513099,53.420146,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Millhouses Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.50052,53.342223,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Millhouses Park Water Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.500918,53.341776,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Mortomley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.486315,53.471163,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Mosborough Hall Drive Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.350954,53.321207,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Mount Pleasant Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.476351,53.365372,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Norfolk Park Junior Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.446589,53.368423,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Norfolk Park Toddler Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.447328,53.368568,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Nottingham Street Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.467057,53.395337,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Owlthorpe Grove Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.372239,53.331299,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Oxley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.608516,53.482581,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Parson Cross Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.468389,53.423144,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Pen Nook Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.572238,53.476185,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Philadelphia Gardens Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.485658,53.391423,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Phillimore Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.416536,53.393935,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ponderosa Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.490682,53.385169,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ponderosa, Martin Street Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.485012,53.387666,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Richmond Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.402652,53.358726,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Rivelin Valley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.519291,53.390994,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Rivelin Valley Park Water Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.517425,53.391814,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Rolling Acres Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.334976,53.337557,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Rundle Road Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.598857,53.481098,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Ruskin Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.492903,53.392187,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Sandringham Place Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.573121,53.369549,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Sevenairs Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.34928,53.3471,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Springfield Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.482456,53.378259,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Stannington Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.545657,53.392827,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Storth Lane Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.555045,53.44481,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Sycamore Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.54319,53.425173,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>The Rookery Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.56726,53.475049,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Thorpe Green Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.354842,53.336831,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Thorpe Hesley Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.444449,53.459781,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tinsley Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.396255,53.413814,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Totley Hall Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.536633,53.31106,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wadsley Park Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.517561,53.417729,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Warren Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.464319,53.47302,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wensley Street Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.440156,53.410092,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wharncliffe Avenue Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.554338,53.452989,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wincobank Lane Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.43481,53.408702,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wisewood Park</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.520307,53.409482,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Wolfe Road Open Space Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.494294,53.426135,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Woodthorpe Ravine Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.422762,53.361393,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Worrall Recreation Ground Playground</name>
-      <description>Source: Council | access: public | visited: no</description>
+      <description>Source: Council | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.5369,53.424071,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Charter Square Musical Pocket Park</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.473211,53.377761,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Clough Road Square</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.466125,53.372515,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Enchanted Forest Trail</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.509495,53.451219,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Escape Sheffield</name>
-      <description>Source: OSM only | access: customers | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.467212,53.382973,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Fun House Play Centre</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.502894,53.404021,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Jungle Mania</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.408152,53.392738,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Pitsmoor Adventure Playground</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.461005,53.396629,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tannery Park Play Area</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.37044,53.357005,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Tara Springs Park</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.490637,53.377091,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>The Stags Head Play Area</name>
-      <description>Source: OSM only | access: customers | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.490049,53.366392,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Tiger Play</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.411204,53.415297,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>TopJump Inflatable Park</name>
-      <description>Source: OSM only | access: customers | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.482491,53.355019,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Tots To Tens</name>
-      <description>Source: OSM only | access: public | visited: no</description>
+      <description>Source: OSM only | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.490371,53.403478,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Alexandra Road, Heeley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.467304,53.362872,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Atlantic Road, Greenhill</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.492303,53.3206,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Bents Crescent, Bents Green</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.528671,53.350732,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Boundary Road, Wybourn</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.446231,53.37787,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Bradway Road, Bradway</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.504187,53.318066,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Brightside</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.414535,53.413746,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Britnall Street, Attercliffe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.429238,53.393991,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Burnaby Crescent, Walkley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.496509,53.396546,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr City Road, Arbourthorne</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.436246,53.366315,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Cliffe Hill, Bradfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.575497,53.399498,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Derby Street, Heeley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.456647,53.357927,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Derriman Drive, Ecclesall</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.509676,53.34776,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Drake House Way, Waterthorpe</name>
-      <description>Source: OSM unnamed | access: customers | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.353927,53.344805,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Dungworth Green, Bradfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.576934,53.406347,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Dyche Lane, Jordanthorpe</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.466356,53.322829,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Dyke Vale Road, Hackenthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.382924,53.349451,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Fraser Road, Woodseats</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.488397,53.346033,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Fretson Green, Manor</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.424331,53.365657,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Gleadless Road, Arbourthorne</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.448535,53.355227,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Gleadless Road, Heeley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.470714,53.361507,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Greaves Street, Walkley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.493998,53.397028,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hanover Street, Broomhall</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.481946,53.374234,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hathersage Road, Ecclesall</name>
-      <description>Source: OSM unnamed | access: private | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.536719,53.338035,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Hathersage Road, Ecclesall</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.538921,53.336984,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hawksley Avenue, Middlewood</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.501476,53.405368,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hazlebarrow Court, Jordanthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.461578,53.325273,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Hendon Street, Handsworth</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.385562,53.372841,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Herries Road, Shirecliffe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.47072,53.412679,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr High Hazels Close, Darnall</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.402408,53.383468,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hollin Busk Lane, Stubbin</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.584272,53.472153,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Hyde Park Terrace, Park Hill</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.455106,53.379741,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Jericho Street, Netherthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.482498,53.385504,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Lavender Way, Wincobank</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.434506,53.415678,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Lichford Road, Heeley</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.456988,53.359844,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Malham Gardens, Halfway</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.355852,53.324493,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Manor Lane, Wybourn</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.435901,53.37473,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Manor Park Centre, Manor</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.43182,53.376222,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Mansfield Road, Richmond</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.410345,53.355601,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Millhouses Lane, Millhouses</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.508744,53.351267,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Moorland Drive, Garden Village</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.607709,53.480964,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Mosborough</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.360429,53.319573,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Mount Street, Highfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.479934,53.370594,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Pack Horse Lane, High Green</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.484333,53.474684,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Pingle Road, Millhouses</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.508687,53.347436,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Pingle Road, Millhouses</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.509076,53.347092,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Randall Place, Highfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.475696,53.369055,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Reaper Crescent, Burncross</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.486962,53.465632,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Redmires Road, Lodge Moor</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.580557,53.372075,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Rockingham Lane, City Centre</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.474241,53.379041,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Samuel Fox Avenue, Stubbin</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.580613,53.481799,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Samuel Fox Avenue, Stubbin</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.582937,53.482431,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Sandygate Grange Drive, Stannington</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.531209,53.37874,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Sharrow Lane, Highfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.479872,53.368074,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Sheffield Road, Carbrook</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.409981,53.408197,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Skye Edge Avenue, Wybourn</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.448075,53.378049,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Solly Street, City Centre</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.473379,53.384986,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Solly Street, City Centre</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.480712,53.38345,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Spital Lane, Burngreave</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.459925,53.3913,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Station Lane, Bradfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.537277,53.436631,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Stockton Close, Burngreave</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.460132,53.392243,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Storrs Lane, Stannington</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.565409,53.399281,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr The Circle, Manor</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.421984,53.369044,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Torksey Road West, Firth Park</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.446998,53.423145,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Waterthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.350707,53.341161,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Western Bank, Netherthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.490634,53.38046,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Whitehouse Lane, Upperthorpe</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.489181,53.393636,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unnamed playground nr Wicker, Burngreave</name>
-      <description>Source: OSM unnamed | access: private | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.461036,53.38776,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
       <name>Unnamed playground nr Willows Walk, Bradfield</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.545951,53.442446,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Unnamed playground nr Windy House Lane, Manor</name>
-      <description>Source: OSM unnamed | access: public | visited: no</description>
+      <description>Source: OSM unnamed | visited: no</description>
       <styleUrl>#todo</styleUrl>
       <Point><coordinates>-1.429825,53.364003,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Unnamed playground nr Woodthorpe Road, Woodthorpe</name>
-      <description>Source: OSM unnamed | access: school | visited: no</description>
-      <styleUrl>#restricted</styleUrl>
-      <Point><coordinates>-1.413828,53.364487,0</coordinates></Point>
     </Placemark>
   </Document>
 </kml>
