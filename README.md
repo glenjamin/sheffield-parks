@@ -24,7 +24,24 @@ council's open data with [OpenStreetMap][osm] to get a fuller list:
   (`visited=no`); add a conditional style `visited=yes` → green so ticking one
   off recolours it.
 - **`sheffield_playgrounds.csv`** — the master list / spreadsheet. Columns:
-  `name, lat, lon, source, visited, date_visited, notes`.
+  `name, lat, lon, source, access, visited, date_visited, notes`.
+
+## Access — not everything is publicly accessible
+
+The `access` column flags playgrounds that may not be open to the public. On the
+maps these show as **grey** pins (public ones are red):
+
+| access | Count | Meaning |
+| --- | --- | --- |
+| `public` | 185 | Open to all (all council sites + OSM `access=yes`/untagged) |
+| `school` | 10 | Inside/next to school grounds — usually pupils only |
+| `customers` | 4 | Commercial soft-play etc. (paid / customers only) |
+| `private` | 2 | OSM-tagged `access=private` |
+
+School detection is a point-in-polygon test against OSM school boundaries (plus
+a 25m buffer), so it's **best-effort**: it can't flag a school playground OSM
+hasn't mapped, and boundaries can be rough. Treat grey pins as "check before
+relying on it", not gospel.
 
 ## Rebuilding
 

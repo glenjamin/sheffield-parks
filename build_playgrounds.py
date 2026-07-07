@@ -72,6 +72,24 @@ area["name"="Sheffield"]["admin_level"="8"]->.a;
 out center tags;
 """
 
+# School grounds — used to flag playgrounds that sit INSIDE a school boundary
+# (typically pupils-only, not publicly accessible). OSM's own access= tag only
+# covers some of them, so we also do a point-in-polygon test against these.
+SCHOOL_QUERY = """
+[out:json][timeout:60];
+area["name"="Sheffield"]["admin_level"="8"]->.a;
+(
+  way["amenity"~"^(school|kindergarten|college)$"](area.a);
+  relation["amenity"~"^(school|kindergarten|college)$"](area.a);
+);
+out geom;
+"""
+# Playgrounds within this many metres of a school boundary are flagged too —
+# catches ones mapped just outside the drawn edge. Detection is best-effort:
+# it can't flag school playgrounds OSM hasn't mapped, so treat it as a warning,
+# not gospel — confirm on the ground.
+SCHOOL_BUFFER_M = 25
+
 # Sheffield CC open data — "Parks & Countryside Service Sites" (layer 12).
 # We only want rows where site_type == 'Playgrounds'. Public, no token needed
 # (the map's utility.arcgis.com proxy URLs ARE token-gated — don't use those).
@@ -90,14 +108,14 @@ UNNAMED_SAME_M = 120  # unnamed OSM point this close to any named site == dup
 
 
 def main():
-    print("1/5 Fetching OSM playgrounds from Overpass ...")
+    print("1/6 Fetching OSM playgrounds from Overpass ...")
     osm = fetch_overpass()
     osm_named = [e for e in osm if e["name"]]
     osm_unnamed = [e for e in osm if not e["name"]]
     print(f"     {len(osm)} OSM features ({len(osm_named)} named, "
           f"{len(osm_unnamed)} unnamed)")
 
-    print("2/5 Fetching council playgrounds ...")
+    print("2/6 Fetching council playgrounds ...")
     council = fetch_council()
     print(f"     {len(council)} council playgrounds")
 
@@ -108,7 +126,7 @@ def main():
         if not _near(o, council, SAME_SITE_M):
             merged.append({**o, "source": "OSM only"})
 
-    print("3/5 Deduping unnamed OSM playgrounds ...")
+    print("3/6 Deduping unnamed OSM playgrounds ...")
     # Collapse near-duplicate unnamed points, then drop any that sit on top of
     # an already-listed named site (those are the same playground, unnamed).
     deduped = _self_dedupe(osm_unnamed, SELF_DEDUPE_M)
@@ -116,7 +134,7 @@ def main():
     print(f"     {len(osm_unnamed)} -> {len(deduped)} (self) -> "
           f"{len(new_unnamed)} genuinely new")
 
-    print(f"4/5 Reverse-geocoding {len(new_unnamed)} unnamed points "
+    print(f"4/6 Reverse-geocoding {len(new_unnamed)} unnamed points "
           f"(~{len(new_unnamed) * NOMINATIM_DELAY_S:.0f}s) ...")
     for i, p in enumerate(new_unnamed):
         p["name"] = _label_unnamed(p["lat"], p["lon"])
@@ -129,27 +147,53 @@ def main():
     # Keep only playgrounds within 10 miles of the city centre (drops US ones).
     merged = [r for r in merged
               if _haversine(CENTRE[0], CENTRE[1], r["lat"], r["lon"]) <= RADIUS_M]
+
+    print("5/6 Flagging access (schools / private / commercial) ...")
+    schools = fetch_school_polygons()
+    print(f"     {len(schools)} school grounds")
+    for r in merged:
+        r["access"] = _classify_access(r, schools)
+    n_restricted = sum(1 for r in merged if r["access"] != "public")
+    print(f"     {n_restricted} flagged not-clearly-public "
+          f"({sum(1 for r in merged if r['access']=='school')} in school grounds)")
+
     # Council first, then alphabetical — stable, readable ordering.
     merged.sort(key=lambda x: (x["source"] != "Council", x["name"]))
 
-    print(f"5/5 Writing {len(merged)} playgrounds ...")
+    print(f"6/6 Writing {len(merged)} playgrounds ...")
     write_csv(merged)
     write_geojson(merged)
     write_kml(merged)
 
     from collections import Counter
     print("     by source:", dict(Counter(r["source"] for r in merged)))
+    print("     by access:", dict(Counter(r["access"] for r in merged)))
     print("Done.")
+
+
+def _classify_access(row, school_polys):
+    """Return public | school | private | customers for a playground.
+
+    Council park playgrounds are always public. For OSM ones, being inside (or
+    just outside) a school boundary wins, else fall back to the OSM access tag.
+    """
+    if row["source"] == "Council":
+        return "public"
+    if _in_or_near_school(row["lon"], row["lat"], school_polys, SCHOOL_BUFFER_M):
+        return "school"
+    tag = row.get("access")
+    if tag == "private":
+        return "private"
+    if tag == "customers":
+        return "customers"       # commercial soft-play etc.
+    return "public"              # access=yes or untagged
 
 
 # --- Fetchers ---------------------------------------------------------------
 
-def fetch_overpass():
-    """Return [{name|None, lat, lon}] for every OSM playground in the query.
-
-    Tries each mirror, retrying transient 429/504s with a short backoff.
-    """
-    data = urllib.parse.urlencode({"data": OVERPASS_QUERY}).encode()
+def _overpass(query):
+    """POST a query to Overpass, trying each mirror with 429/504 backoff."""
+    data = urllib.parse.urlencode({"data": query}).encode()
     last = None
     for url in OVERPASS_URLS:
         for attempt in range(3):
@@ -157,8 +201,7 @@ def fetch_overpass():
                 req = urllib.request.Request(url, data=data,
                                              headers={"User-Agent": USER_AGENT})
                 with urllib.request.urlopen(req, timeout=120) as r:
-                    payload = json.load(r)
-                return _parse_overpass(payload)
+                    return json.load(r)
             except urllib.error.HTTPError as e:
                 last = e
                 if e.code in (429, 504):      # busy/rate-limited -> back off
@@ -172,17 +215,32 @@ def fetch_overpass():
     raise RuntimeError(f"all Overpass mirrors failed: {last}")
 
 
-def _parse_overpass(payload):
+def fetch_overpass():
+    """Return [{name|None, lat, lon, access}] for every OSM playground."""
     out = []
-    for e in payload["elements"]:
+    for e in _overpass(OVERPASS_QUERY)["elements"]:
         # ways/relations return a "center"; nodes return lat/lon directly.
         lat = e.get("lat") or e.get("center", {}).get("lat")
         lon = e.get("lon") or e.get("center", {}).get("lon")
         if lat is None:
             continue
-        out.append({"name": e.get("tags", {}).get("name"),
-                    "lat": lat, "lon": lon})
+        t = e.get("tags", {})
+        out.append({"name": t.get("name"), "lat": lat, "lon": lon,
+                    "access": t.get("access")})  # yes/private/customers/None
     return out
+
+
+def fetch_school_polygons():
+    """Return school grounds as lists of (lon, lat) rings for point-in-poly."""
+    polys = []
+    for e in _overpass(SCHOOL_QUERY)["elements"]:
+        if e["type"] == "way" and "geometry" in e:
+            polys.append([(p["lon"], p["lat"]) for p in e["geometry"]])
+        elif e["type"] == "relation":  # multipolygon: take outer ways
+            for m in e.get("members", []):
+                if m.get("role") == "outer" and "geometry" in m:
+                    polys.append([(p["lon"], p["lat"]) for p in m["geometry"]])
+    return polys
 
 
 def fetch_council():
@@ -208,8 +266,9 @@ def fetch_council():
             lat = sum(p[1] for p in pts) / len(pts)
         name = f["attributes"].get("site_name")
         if lat and name:
+            # Council "Parks & Countryside" playgrounds are public park sites.
             out.append({"name": name, "lat": lat, "lon": lon,
-                        "source": "Council"})
+                        "source": "Council", "access": "yes"})
     return out
 
 
@@ -240,42 +299,49 @@ def _label_unnamed(lat, lon):
 def write_csv(rows):
     with open(os.path.join(HERE, "sheffield_playgrounds.csv"), "w", newline="") as fh:
         w = csv.writer(fh)
-        w.writerow(["name", "lat", "lon", "source",
+        w.writerow(["name", "lat", "lon", "source", "access",
                     "visited", "date_visited", "notes"])
         for r in rows:
             w.writerow([r["name"], round(r["lat"], 6), round(r["lon"], 6),
-                        r["source"], "", "", ""])
+                        r["source"], r["access"], "", "", ""])
 
 
 def write_geojson(rows):
-    # _umap_options makes uMap draw every pin red (= to-do). In uMap, add a
+    # Pin colour encodes access so restricted ones stand out at a glance:
+    # public=Red (to-do), school/private/customers=Grey. In uMap, add a
     # conditional style visited=yes -> Green so ticking off recolours the pin.
     feats = [{
         "type": "Feature",
         "geometry": {"type": "Point",
                      "coordinates": [round(r["lon"], 6), round(r["lat"], 6)]},
         "properties": {"name": r["name"], "source": r["source"],
-                       "visited": "no", "date_visited": "", "notes": "",
-                       "_umap_options": {"color": "Red", "iconClass": "Drop"}},
+                       "access": r["access"], "visited": "no",
+                       "date_visited": "", "notes": "",
+                       "_umap_options": {
+                           "color": "Red" if r["access"] == "public" else "Gray",
+                           "iconClass": "Drop"}},
     } for r in rows]
     with open(os.path.join(HERE, "sheffield_playgrounds.geojson"), "w") as fh:
         json.dump({"type": "FeatureCollection", "features": feats}, fh, indent=1)
 
 
 def write_kml(rows):
+    # Two styles: public playgrounds red, restricted (school/private/customers)
+    # grey, so non-public ones are obvious on the CoMaps map.
     placemarks = "\n".join(
         f"""    <Placemark>
       <name>{_xml(r['name'])}</name>
-      <description>Source: {_xml(r['source'])} | visited: no</description>
-      <styleUrl>#todo</styleUrl>
+      <description>Source: {_xml(r['source'])} | access: {_xml(r['access'])} | visited: no</description>
+      <styleUrl>#{'todo' if r['access'] == 'public' else 'restricted'}</styleUrl>
       <Point><coordinates>{round(r['lon'], 6)},{round(r['lat'], 6)},0</coordinates></Point>
     </Placemark>""" for r in rows)
-    # color is KML aabbggrr (opaque red). Import into CoMaps as a bookmark list.
+    # color is KML aabbggrr (opaque). Import into CoMaps as a bookmark list.
     kml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Sheffield Playparks</name>
     <Style id="todo"><IconStyle><color>ff3643f4</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+    <Style id="restricted"><IconStyle><color>ff888888</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle></Style>
 {placemarks}
   </Document>
 </kml>"""
@@ -309,6 +375,51 @@ def _self_dedupe(points, metres):
         if not _near(p, kept, metres):
             kept.append(p)
     return kept
+
+
+def _in_or_near_school(lon, lat, polys, buffer_m):
+    """True if (lon, lat) is inside any school ring, or within buffer_m of one.
+
+    Coordinates are projected to local metres about the point so the buffer is
+    an honest distance rather than degrees.
+    """
+    mx = 111320.0 * math.cos(math.radians(lat))   # metres per degree lon here
+    my = 110540.0                                  # metres per degree lat
+    px, py = lon * mx, lat * my
+    for poly in polys:
+        pts = [(x * mx, y * my) for x, y in poly]
+        if _point_in_ring(px, py, pts):
+            return True
+        if any(_pt_seg_dist(px, py, pts[i], pts[i - 1]) <= buffer_m
+               for i in range(len(pts))):
+            return True
+    return False
+
+
+def _point_in_ring(px, py, ring):
+    """Ray-casting point-in-polygon on projected (x, y) points."""
+    inside = False
+    n = len(ring)
+    j = n - 1
+    for i in range(n):
+        xi, yi = ring[i]
+        xj, yj = ring[j]
+        if ((yi > py) != (yj > py)) and \
+           (px < (xj - xi) * (py - yi) / (yj - yi) + xi):
+            inside = not inside
+        j = i
+    return inside
+
+
+def _pt_seg_dist(px, py, a, b):
+    """Distance from point to segment a-b, all in projected metres."""
+    ax, ay = a
+    bx, by = b
+    dx, dy = bx - ax, by - ay
+    if dx == 0 and dy == 0:
+        return math.hypot(px - ax, py - ay)
+    t = max(0.0, min(1.0, ((px - ax) * dx + (py - ay) * dy) / (dx * dx + dy * dy)))
+    return math.hypot(px - (ax + t * dx), py - (ay + t * dy))
 
 
 def _xml(s):
