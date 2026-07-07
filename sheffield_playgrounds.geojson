@@ -1,0 +1,4226 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.464749,
+     53.399253
+    ]
+   },
+   "properties": {
+    "name": "Abbeyfield Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.492354,
+     53.47044
+    ]
+   },
+   "properties": {
+    "name": "Angram Bank Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.441568,
+     53.358471
+    ]
+   },
+   "properties": {
+    "name": "Arbourthorne Pond Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.537228,
+     53.408302
+    ]
+   },
+   "properties": {
+    "name": "Archer Gate Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.468215,
+     53.320438
+    ]
+   },
+   "properties": {
+    "name": "Batemoor Road Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.365332,
+     53.360289
+    ]
+   },
+   "properties": {
+    "name": "Beaverhill Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.600684,
+     53.476369
+    ]
+   },
+   "properties": {
+    "name": "Beechwood Road Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.373965,
+     53.347359
+    ]
+   },
+   "properties": {
+    "name": "Birley Spa Lane Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.559597,
+     53.369538
+    ]
+   },
+   "properties": {
+    "name": "Blackbrook Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.508858,
+     53.390287
+    ]
+   },
+   "properties": {
+    "name": "Bole Hill Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.369784,
+     53.325795
+    ]
+   },
+   "properties": {
+    "name": "Bridle Stile Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.423143,
+     53.41279
+    ]
+   },
+   "properties": {
+    "name": "Brightside Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.48095,
+     53.357827
+    ]
+   },
+   "properties": {
+    "name": "Broadfield Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.459548,
+     53.39557
+    ]
+   },
+   "properties": {
+    "name": "Burngreave Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.471175,
+     53.409972
+    ]
+   },
+   "properties": {
+    "name": "Busk Meadow Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.385729,
+     53.361563
+    ]
+   },
+   "properties": {
+    "name": "Cardwell Drive Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.470255,
+     53.469468
+    ]
+   },
+   "properties": {
+    "name": "Cart Drive Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.418246,
+     53.339702
+    ]
+   },
+   "properties": {
+    "name": "Carterhall Recreation Ground Playground 1",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41692,
+     53.339172
+    ]
+   },
+   "properties": {
+    "name": "Carterhall Recreation Ground Playground 2",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.484129,
+     53.335164
+    ]
+   },
+   "properties": {
+    "name": "Chancet Wood Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.463254,
+     53.461364
+    ]
+   },
+   "properties": {
+    "name": "Chapletown Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.480146,
+     53.467244
+    ]
+   },
+   "properties": {
+    "name": "Charlton Brook Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.501456,
+     53.35944
+    ]
+   },
+   "properties": {
+    "name": "Chelsea Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4722,
+     53.434107
+    ]
+   },
+   "properties": {
+    "name": "Colley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.440798,
+     53.42423
+    ]
+   },
+   "properties": {
+    "name": "Concord Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.488844,
+     53.416766
+    ]
+   },
+   "properties": {
+    "name": "Cookson Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.414306,
+     53.389369
+    ]
+   },
+   "properties": {
+    "name": "Coventry Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.492797,
+     53.38444
+    ]
+   },
+   "properties": {
+    "name": "Crookes Valley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.616321,
+     53.484235
+    ]
+   },
+   "properties": {
+    "name": "Cross Lane Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4216,
+     53.390655
+    ]
+   },
+   "properties": {
+    "name": "Darnall Community Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.412291,
+     53.391648
+    ]
+   },
+   "properties": {
+    "name": "Darnall Neighbourhood Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.429697,
+     53.367352
+    ]
+   },
+   "properties": {
+    "name": "Deep Pits Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.568193,
+     53.478755
+    ]
+   },
+   "properties": {
+    "name": "Deepcar Playing Fields Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.529934,
+     53.393681
+    ]
+   },
+   "properties": {
+    "name": "Deer Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.465905,
+     53.391091
+    ]
+   },
+   "properties": {
+    "name": "Denholme Close Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.544902,
+     53.326892
+    ]
+   },
+   "properties": {
+    "name": "Dore Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.453717,
+     53.403538
+    ]
+   },
+   "properties": {
+    "name": "Earl Marshall Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39541,
+     53.348247
+    ]
+   },
+   "properties": {
+    "name": "East Glade Way Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.466202,
+     53.443179
+    ]
+   },
+   "properties": {
+    "name": "Ecclesfield Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.419708,
+     53.424454
+    ]
+   },
+   "properties": {
+    "name": "Ecclesfield Road (Woolley W) Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.368769,
+     53.339508
+    ]
+   },
+   "properties": {
+    "name": "Edenthorpe Grove Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.454573,
+     53.395878
+    ]
+   },
+   "properties": {
+    "name": "Ellesmere Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.505598,
+     53.368555
+    ]
+   },
+   "properties": {
+    "name": "Endcliffe Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.446596,
+     53.417354
+    ]
+   },
+   "properties": {
+    "name": "Firth Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.545188,
+     53.360853
+    ]
+   },
+   "properties": {
+    "name": "Forge Dam Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.577943,
+     53.476363
+    ]
+   },
+   "properties": {
+    "name": "Fox Glen Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.501007,
+     53.429327
+    ]
+   },
+   "properties": {
+    "name": "Foxhill Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.403771,
+     53.346847
+    ]
+   },
+   "properties": {
+    "name": "Frecheville Pond Community Centre Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.432184,
+     53.352407
+    ]
+   },
+   "properties": {
+    "name": "Gleadless Common Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.480117,
+     53.338562
+    ]
+   },
+   "properties": {
+    "name": "Graves Park Cobnar Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.467697,
+     53.337593
+    ]
+   },
+   "properties": {
+    "name": "Graves Park Rose Garden Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.531504,
+     53.31365
+    ]
+   },
+   "properties": {
+    "name": "Green Oak Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.485774,
+     53.318907
+    ]
+   },
+   "properties": {
+    "name": "Greenhill Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.468544,
+     53.359716
+    ]
+   },
+   "properties": {
+    "name": "Gregory Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.499416,
+     53.43914
+    ]
+   },
+   "properties": {
+    "name": "Grenoside Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.386048,
+     53.37472
+    ]
+   },
+   "properties": {
+    "name": "Handsworth Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.481851,
+     53.377233
+    ]
+   },
+   "properties": {
+    "name": "Headford Gardens Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.341501,
+     53.321139
+    ]
+   },
+   "properties": {
+    "name": "Heathlands Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.439634,
+     53.341857
+    ]
+   },
+   "properties": {
+    "name": "Herdings Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.401352,
+     53.386257
+    ]
+   },
+   "properties": {
+    "name": "High Hazels Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.367684,
+     53.329812
+    ]
+   },
+   "properties": {
+    "name": "High Street Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.502439,
+     53.408032
+    ]
+   },
+   "properties": {
+    "name": "Hillsborough Park Childrens Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.502189,
+     53.407704
+    ]
+   },
+   "properties": {
+    "name": "Hillsborough Park Teenage Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.484002,
+     53.376746
+    ]
+   },
+   "properties": {
+    "name": "Holberry Open Space Playground - Upper Hanover",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.423362,
+     53.353626
+    ]
+   },
+   "properties": {
+    "name": "Hollinsend Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.461983,
+     53.41709
+    ]
+   },
+   "properties": {
+    "name": "Longley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.606393,
+     53.424564
+    ]
+   },
+   "properties": {
+    "name": "Low Bradfield Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.470866,
+     53.366206
+    ]
+   },
+   "properties": {
+    "name": "Lowfield Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.542541,
+     53.405023
+    ]
+   },
+   "properties": {
+    "name": "Loxley Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.513769,
+     53.38127
+    ]
+   },
+   "properties": {
+    "name": "Lydgate Lane Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.487034,
+     53.45925
+    ]
+   },
+   "properties": {
+    "name": "Mackenzie Crescent Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.452486,
+     53.382835
+    ]
+   },
+   "properties": {
+    "name": "Manor Oaks Garden Playground ",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.413532,
+     53.37905
+    ]
+   },
+   "properties": {
+    "name": "Mather Road Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.473974,
+     53.354573
+    ]
+   },
+   "properties": {
+    "name": "Meersbrook Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.470926,
+     53.352244
+    ]
+   },
+   "properties": {
+    "name": "Meersbrook Park Playground - Trim Trail",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.513099,
+     53.420146
+    ]
+   },
+   "properties": {
+    "name": "Middlewood Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.50052,
+     53.342223
+    ]
+   },
+   "properties": {
+    "name": "Millhouses Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.500918,
+     53.341776
+    ]
+   },
+   "properties": {
+    "name": "Millhouses Park Water Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.486315,
+     53.471163
+    ]
+   },
+   "properties": {
+    "name": "Mortomley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.350954,
+     53.321207
+    ]
+   },
+   "properties": {
+    "name": "Mosborough Hall Drive Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.476351,
+     53.365372
+    ]
+   },
+   "properties": {
+    "name": "Mount Pleasant Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.446589,
+     53.368423
+    ]
+   },
+   "properties": {
+    "name": "Norfolk Park Junior Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.447328,
+     53.368568
+    ]
+   },
+   "properties": {
+    "name": "Norfolk Park Toddler Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.467057,
+     53.395337
+    ]
+   },
+   "properties": {
+    "name": "Nottingham Street Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.372239,
+     53.331299
+    ]
+   },
+   "properties": {
+    "name": "Owlthorpe Grove Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.608516,
+     53.482581
+    ]
+   },
+   "properties": {
+    "name": "Oxley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.468389,
+     53.423144
+    ]
+   },
+   "properties": {
+    "name": "Parson Cross Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.572238,
+     53.476185
+    ]
+   },
+   "properties": {
+    "name": "Pen Nook Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.485658,
+     53.391423
+    ]
+   },
+   "properties": {
+    "name": "Philadelphia Gardens Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.416536,
+     53.393935
+    ]
+   },
+   "properties": {
+    "name": "Phillimore Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.490682,
+     53.385169
+    ]
+   },
+   "properties": {
+    "name": "Ponderosa Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.485012,
+     53.387666
+    ]
+   },
+   "properties": {
+    "name": "Ponderosa, Martin Street Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.402652,
+     53.358726
+    ]
+   },
+   "properties": {
+    "name": "Richmond Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.519291,
+     53.390994
+    ]
+   },
+   "properties": {
+    "name": "Rivelin Valley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.517425,
+     53.391814
+    ]
+   },
+   "properties": {
+    "name": "Rivelin Valley Park Water Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.334976,
+     53.337557
+    ]
+   },
+   "properties": {
+    "name": "Rolling Acres Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.598857,
+     53.481098
+    ]
+   },
+   "properties": {
+    "name": "Rundle Road Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.492903,
+     53.392187
+    ]
+   },
+   "properties": {
+    "name": "Ruskin Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.573121,
+     53.369549
+    ]
+   },
+   "properties": {
+    "name": "Sandringham Place Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34928,
+     53.3471
+    ]
+   },
+   "properties": {
+    "name": "Sevenairs Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.482456,
+     53.378259
+    ]
+   },
+   "properties": {
+    "name": "Springfield Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.545657,
+     53.392827
+    ]
+   },
+   "properties": {
+    "name": "Stannington Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.555045,
+     53.44481
+    ]
+   },
+   "properties": {
+    "name": "Storth Lane Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54319,
+     53.425173
+    ]
+   },
+   "properties": {
+    "name": "Sycamore Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56726,
+     53.475049
+    ]
+   },
+   "properties": {
+    "name": "The Rookery Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.354842,
+     53.336831
+    ]
+   },
+   "properties": {
+    "name": "Thorpe Green Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.444449,
+     53.459781
+    ]
+   },
+   "properties": {
+    "name": "Thorpe Hesley Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.396255,
+     53.413814
+    ]
+   },
+   "properties": {
+    "name": "Tinsley Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.536633,
+     53.31106
+    ]
+   },
+   "properties": {
+    "name": "Totley Hall Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.517561,
+     53.417729
+    ]
+   },
+   "properties": {
+    "name": "Wadsley Park Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.464319,
+     53.47302
+    ]
+   },
+   "properties": {
+    "name": "Warren Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.440156,
+     53.410092
+    ]
+   },
+   "properties": {
+    "name": "Wensley Street Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.554338,
+     53.452989
+    ]
+   },
+   "properties": {
+    "name": "Wharncliffe Avenue Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43481,
+     53.408702
+    ]
+   },
+   "properties": {
+    "name": "Wincobank Lane Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.520307,
+     53.409482
+    ]
+   },
+   "properties": {
+    "name": "Wisewood Park",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.494294,
+     53.426135
+    ]
+   },
+   "properties": {
+    "name": "Wolfe Road Open Space Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.422762,
+     53.361393
+    ]
+   },
+   "properties": {
+    "name": "Woodthorpe Ravine Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5369,
+     53.424071
+    ]
+   },
+   "properties": {
+    "name": "Worrall Recreation Ground Playground",
+    "source": "Council",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.473211,
+     53.377761
+    ]
+   },
+   "properties": {
+    "name": "Charter Square Musical Pocket Park",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.466125,
+     53.372515
+    ]
+   },
+   "properties": {
+    "name": "Clough Road Square",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.509495,
+     53.451219
+    ]
+   },
+   "properties": {
+    "name": "Enchanted Forest Trail",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.467212,
+     53.382973
+    ]
+   },
+   "properties": {
+    "name": "Escape Sheffield",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.502894,
+     53.404021
+    ]
+   },
+   "properties": {
+    "name": "Fun House Play Centre",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.408152,
+     53.392738
+    ]
+   },
+   "properties": {
+    "name": "Jungle Mania",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.461005,
+     53.396629
+    ]
+   },
+   "properties": {
+    "name": "Pitsmoor Adventure Playground",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37044,
+     53.357005
+    ]
+   },
+   "properties": {
+    "name": "Tannery Park Play Area",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.490637,
+     53.377091
+    ]
+   },
+   "properties": {
+    "name": "Tara Springs Park",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.490049,
+     53.366392
+    ]
+   },
+   "properties": {
+    "name": "The Stags Head Play Area",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.411204,
+     53.415297
+    ]
+   },
+   "properties": {
+    "name": "Tiger Play",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.482491,
+     53.355019
+    ]
+   },
+   "properties": {
+    "name": "TopJump Inflatable Park",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.490371,
+     53.403478
+    ]
+   },
+   "properties": {
+    "name": "Tots To Tens",
+    "source": "OSM only",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.467304,
+     53.362872
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Alexandra Road, Heeley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.492303,
+     53.3206
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Atlantic Road, Greenhill",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.528671,
+     53.350732
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Bents Crescent, Bents Green",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.446231,
+     53.37787
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Boundary Road, Wybourn",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.504187,
+     53.318066
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Bradway Road, Bradway",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.414535,
+     53.413746
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Brightside",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.429238,
+     53.393991
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Britnall Street, Attercliffe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.496509,
+     53.396546
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Burnaby Crescent, Walkley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.436246,
+     53.366315
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr City Road, Arbourthorne",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.575497,
+     53.399498
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Cliffe Hill, Bradfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.456647,
+     53.357927
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Derby Street, Heeley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.509676,
+     53.34776
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Derriman Drive, Ecclesall",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.353927,
+     53.344805
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Drake House Way, Waterthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.576934,
+     53.406347
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Dungworth Green, Bradfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.466356,
+     53.322829
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Dyche Lane, Jordanthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.382924,
+     53.349451
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Dyke Vale Road, Hackenthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.488397,
+     53.346033
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Fraser Road, Woodseats",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.424331,
+     53.365657
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Fretson Green, Manor",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.448535,
+     53.355227
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Gleadless Road, Arbourthorne",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.470714,
+     53.361507
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Gleadless Road, Heeley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.493998,
+     53.397028
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Greaves Street, Walkley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.481946,
+     53.374234
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hanover Street, Broomhall",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.536719,
+     53.338035
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hathersage Road, Ecclesall",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.538921,
+     53.336984
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hathersage Road, Ecclesall",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.501476,
+     53.405368
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hawksley Avenue, Middlewood",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.461578,
+     53.325273
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hazlebarrow Court, Jordanthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.385562,
+     53.372841
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hendon Street, Handsworth",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.47072,
+     53.412679
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Herries Road, Shirecliffe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.402408,
+     53.383468
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr High Hazels Close, Darnall",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.584272,
+     53.472153
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hollin Busk Lane, Stubbin",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.455106,
+     53.379741
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Hyde Park Terrace, Park Hill",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.482498,
+     53.385504
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Jericho Street, Netherthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.434506,
+     53.415678
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Lavender Way, Wincobank",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.456988,
+     53.359844
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Lichford Road, Heeley",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.355852,
+     53.324493
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Malham Gardens, Halfway",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.435901,
+     53.37473
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Manor Lane, Wybourn",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43182,
+     53.376222
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Manor Park Centre, Manor",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.410345,
+     53.355601
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Mansfield Road, Richmond",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.508744,
+     53.351267
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Millhouses Lane, Millhouses",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.607709,
+     53.480964
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Moorland Drive, Garden Village",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.360429,
+     53.319573
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Mosborough",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.479934,
+     53.370594
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Mount Street, Highfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.484333,
+     53.474684
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Pack Horse Lane, High Green",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.508687,
+     53.347436
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Pingle Road, Millhouses",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.509076,
+     53.347092
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Pingle Road, Millhouses",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.475696,
+     53.369055
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Randall Place, Highfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.486962,
+     53.465632
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Reaper Crescent, Burncross",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.580557,
+     53.372075
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Redmires Road, Lodge Moor",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.474241,
+     53.379041
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Rockingham Lane, City Centre",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.580613,
+     53.481799
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Samuel Fox Avenue, Stubbin",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.582937,
+     53.482431
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Samuel Fox Avenue, Stubbin",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.531209,
+     53.37874
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Sandygate Grange Drive, Stannington",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.479872,
+     53.368074
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Sharrow Lane, Highfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.409981,
+     53.408197
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Sheffield Road, Carbrook",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.448075,
+     53.378049
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Skye Edge Avenue, Wybourn",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.473379,
+     53.384986
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Solly Street, City Centre",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.480712,
+     53.38345
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Solly Street, City Centre",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.459925,
+     53.3913
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Spital Lane, Burngreave",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.537277,
+     53.436631
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Station Lane, Bradfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.460132,
+     53.392243
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Stockton Close, Burngreave",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.565409,
+     53.399281
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Storrs Lane, Stannington",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.421984,
+     53.369044
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr The Circle, Manor",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.446998,
+     53.423145
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Torksey Road West, Firth Park",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.350707,
+     53.341161
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Waterthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.490634,
+     53.38046
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Western Bank, Netherthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.489181,
+     53.393636
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Whitehouse Lane, Upperthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.461036,
+     53.38776
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Wicker, Burngreave",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.545951,
+     53.442446
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Willows Walk, Bradfield",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.429825,
+     53.364003
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Windy House Lane, Manor",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.413828,
+     53.364487
+    ]
+   },
+   "properties": {
+    "name": "Unnamed playground nr Woodthorpe Road, Woodthorpe",
+    "source": "OSM unnamed",
+    "visited": "no",
+    "date_visited": "",
+    "notes": "",
+    "_umap_options": {
+     "color": "Red",
+     "iconClass": "Drop"
+    }
+   }
+  }
+ ]
+}
